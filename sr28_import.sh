@@ -9,7 +9,7 @@ dos2unix *.txt
 
 # set MySQL variables used for later database management operations
 MYSQL_HST=127.0.0.1
-MYSQL_PORT=13306
+MYSQL_PORT=3306
 MYSQL_USR=$1
 MYSQL_PWD=$2
 
